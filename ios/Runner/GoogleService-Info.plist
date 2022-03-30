@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>830494018641-gjqu5nv4hkrqa3ovrmku6vdnfe0d438r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.830494018641-gjqu5nv4hkrqa3ovrmku6vdnfe0d438r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>830494018641-0jf3mfo55bgbgglpj0r2o90dme3l2ie5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2pOndk5lngySC7SHASEu4SKPy5iVzu4I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>830494018641</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gi.shraddhaBanglesAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>govardhan-infotech-projects</string>
+	<key>STORAGE_BUCKET</key>
+	<string>govardhan-infotech-projects.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:830494018641:ios:4daf75066057e898e87c70</string>
+	<key>DATABASE_URL</key>
+	<string>https://govardhan-infotech-projects.firebaseio.com</string>
+</dict>
+</plist>
